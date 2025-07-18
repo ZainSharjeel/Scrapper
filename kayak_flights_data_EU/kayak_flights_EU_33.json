@@ -1,0 +1,30 @@
+[
+    {
+        "Origin": "London",
+        "Destination": "Berlin",
+        "departure_time": "10:10 pm",
+        "price": "$320",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "London",
+        "Destination": "Berlin",
+        "departure_time": "7:50 pm",
+        "price": "$453",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "London",
+        "Destination": "Berlin",
+        "departure_time": "7:45 pm",
+        "price": "$813",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "London",
+        "Destination": "Berlin",
+        "departure_time": "10:10 pm",
+        "price": "$281",
+        "date": "May 14, 2025"
+    }
+]

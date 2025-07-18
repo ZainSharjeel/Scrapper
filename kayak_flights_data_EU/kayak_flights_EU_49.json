@@ -1,0 +1,30 @@
+[
+    {
+        "Origin": "Paris",
+        "Destination": "Berlin",
+        "departure_time": "8:35 pm",
+        "price": "$76",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "Berlin",
+        "departure_time": "8:25 pm",
+        "price": "$68",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "Berlin",
+        "departure_time": "9:00 pm",
+        "price": "$656",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "Berlin",
+        "departure_time": "7:40 pm",
+        "price": "$294",
+        "date": "May 14, 2025"
+    }
+]

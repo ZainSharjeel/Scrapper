@@ -1,0 +1,16 @@
+[
+    {
+        "Origin": "Berlin",
+        "Destination": "London",
+        "departure_time": "9:05 pm",
+        "price": "$403",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Berlin",
+        "Destination": "London",
+        "departure_time": "8:55 pm",
+        "price": "$777",
+        "date": "May 14, 2025"
+    }
+]

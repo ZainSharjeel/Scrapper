@@ -1,0 +1,51 @@
+Sequential Execution Time: 57.272740602493286 seconds
+ThreadPoolExecutor Execution Time: 29.520421266555786 seconds
+ProcessPoolExecutor Execution Time: 30.84 seconds
+Joblib Parallel Execution Time: 30.98 seconds
+Number of threads: 6
+Hybrid Execution Time (Process + Thread): 30.19 seconds
+Priority Pairs: [('Karachi', 'Islamabad'), ('Islamabad', 'Karachi')]
+
+=== Sequential Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+Priority Pairs: [('Karachi', 'Islamabad'), ('Islamabad', 'Karachi')]
+
+=== ThreadPoolExecutor Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+Priority Pairs: [('Karachi', 'Islamabad'), ('Islamabad', 'Karachi')]
+
+=== ProcessPoolExecutor Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+Priority Pairs: [('Karachi', 'Islamabad'), ('Islamabad', 'Karachi')]
+
+=== Joblib Parallel Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+Priority Pairs: [('Karachi', 'Islamabad'), ('Islamabad', 'Karachi')]
+
+=== Hybrid (Process + Thread) Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================

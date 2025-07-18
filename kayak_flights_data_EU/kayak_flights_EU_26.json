@@ -1,0 +1,44 @@
+[
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "9:00 pm",
+        "price": "$236",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "10:05 pm",
+        "price": "$126",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "8:50 pm",
+        "price": "$148",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "9:00 pm",
+        "price": "$236",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "9:10 pm",
+        "price": "$296",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Paris",
+        "Destination": "London",
+        "departure_time": "9:20 pm",
+        "price": "$470",
+        "date": "May 14, 2025"
+    }
+]

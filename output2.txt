@@ -1,0 +1,6 @@
+Sequential Execution Time: 59.39092206954956 seconds
+ThreadPoolExecutor Execution Time: 33.45302748680115 seconds
+ProcessPoolExecutor Execution Time: 32.24 seconds
+Joblib Parallel Execution Time: 35.94 seconds
+Number of threads: 8
+Hybrid Execution Time (Process + Thread): 25.94 seconds

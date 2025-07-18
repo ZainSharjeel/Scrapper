@@ -1,0 +1,46 @@
+Sequential Execution Time: 65.69615125656128 seconds
+ThreadPoolExecutor Execution Time: 31.10673189163208 seconds
+ProcessPoolExecutor Execution Time: 30.88 seconds
+Joblib Parallel Execution Time: 33.82 seconds
+Number of threads: 6
+Hybrid Execution Time (Process + Thread): 30.61 seconds
+
+=== Sequential Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+
+=== ThreadPoolExecutor Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+
+=== ProcessPoolExecutor Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================
+
+=== Joblib Parallel Metrics ===
+Total Crawled: 2
+Unique Crawled: 1
+Overlap: 1
+Coverage: 0.50
+Quality: 0.50
+==================================
+
+=== Hybrid (Process + Thread) Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 1.00
+Quality: 1.00
+==================================

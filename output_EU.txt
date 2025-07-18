@@ -1,0 +1,95 @@
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Sequential Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Sequential Execution Time: 217.59 seconds
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== ThreadPool Metrics ===
+Total Crawled: 21
+Unique Crawled: 5
+Overlap: 16
+Coverage: 0.83
+Quality: 1.00
+==================================
+ThreadPoolExecutor Execution Time: 70.30 seconds
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== ProcessPool Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+ProcessPoolExecutor Execution Time: 63.08 seconds
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Joblib Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Joblib Parallel Execution Time: 81.64 seconds
+Number of threads: 1
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Hybrid-1 Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Hybrid Execution Time (Process + Thread): 80.61 seconds
+Number of threads: 2
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Hybrid-2 Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Hybrid Execution Time (Process + Thread): 58.20 seconds
+Number of threads: 4
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Hybrid-4 Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Hybrid Execution Time (Process + Thread): 65.67 seconds
+Number of threads: 6
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Hybrid-6 Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Hybrid Execution Time (Process + Thread): 67.59 seconds
+Number of threads: 8
+Priority Pairs: [('Berlin', 'Paris'), ('Berlin', 'London')]
+
+=== Hybrid-8 Metrics ===
+Total Crawled: 25
+Unique Crawled: 6
+Overlap: 19
+Coverage: 1.00
+Quality: 1.00
+==================================
+Hybrid Execution Time (Process + Thread): 67.65 seconds

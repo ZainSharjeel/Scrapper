@@ -1,0 +1,95 @@
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Sequential Metrics ===
+Total Crawled: 7
+Unique Crawled: 4
+Overlap: 3
+Coverage: 0.67
+Quality: 1.00
+==================================
+Sequential Execution Time: 327.54 seconds
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== ThreadPool Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+ThreadPoolExecutor Execution Time: 201.76 seconds
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== ProcessPool Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+ProcessPoolExecutor Execution Time: 172.16 seconds
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Joblib Metrics ===
+Total Crawled: 3
+Unique Crawled: 2
+Overlap: 1
+Coverage: 0.33
+Quality: 0.00
+==================================
+Joblib Parallel Execution Time: 166.58 seconds
+Number of threads: 1
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Hybrid-1 Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+Hybrid Execution Time (Process + Thread): 182.24 seconds
+Number of threads: 2
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Hybrid-2 Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+Hybrid Execution Time (Process + Thread): 171.32 seconds
+Number of threads: 4
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Hybrid-4 Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+Hybrid Execution Time (Process + Thread): 157.34 seconds
+Number of threads: 6
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Hybrid-6 Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+Hybrid Execution Time (Process + Thread): 157.41 seconds
+Number of threads: 8
+Priority Pairs: [('Karachi', 'Islamabad'), ('Karachi', 'Lahore')]
+
+=== Hybrid-8 Metrics ===
+Total Crawled: 5
+Unique Crawled: 2
+Overlap: 3
+Coverage: 0.33
+Quality: 0.00
+==================================
+Hybrid Execution Time (Process + Thread): 159.22 seconds
