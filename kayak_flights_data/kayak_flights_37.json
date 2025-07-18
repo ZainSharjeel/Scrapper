@@ -1,0 +1,23 @@
+[
+    {
+        "Origin": "Islamabad",
+        "Destination": "Karachi",
+        "departure_time": "11:20 pm",
+        "price": "$1,800",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Islamabad",
+        "Destination": "Karachi",
+        "departure_time": "11:20 pm",
+        "price": "$1,800",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Islamabad",
+        "Destination": "Karachi",
+        "departure_time": "11:20 pm",
+        "price": "$1,913",
+        "date": "May 14, 2025"
+    }
+]

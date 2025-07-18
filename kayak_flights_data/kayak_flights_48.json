@@ -1,0 +1,16 @@
+[
+    {
+        "Origin": "Islamabad",
+        "Destination": "Lahore",
+        "departure_time": "11:20 pm",
+        "price": "$2,844",
+        "date": "May 14, 2025"
+    },
+    {
+        "Origin": "Islamabad",
+        "Destination": "Lahore",
+        "departure_time": "11:20 pm",
+        "price": "$2,844",
+        "date": "May 14, 2025"
+    }
+]
